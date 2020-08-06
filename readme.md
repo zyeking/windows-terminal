@@ -1,8 +1,11 @@
 # Windows Terminal 配置
 
 ## 配色 & NerdFont
+
 [在线选择配色](https://atomcorp.github.io/themes/)
+
 ![配置](https://i.loli.net/2020/08/06/NHpXngi7u6oMjfb.png)
+
 ![添加到配置文件当中](https://i.loli.net/2020/08/06/iSdKvReYHcF5M1N.png)
 
 
