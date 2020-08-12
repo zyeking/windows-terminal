@@ -54,7 +54,8 @@
                 "guid": "{c6eaf9f4-32a7-5fdc-b5cf-066e8a4b1e40}",
                 "hidden": false,
                 "name": "Ubuntu-18.04",
-                "colorScheme": "Gruvbox Dark",
+                //"colorScheme": "Gruvbox Dark",
+                "colorScheme": "Snazzy",
                 "source": "Windows.Terminal.Wsl",
                 "fontFace": "DroidSansMono Nerd Font"
                 // "tabTitle" : "Ubuntu (WSL)"
@@ -99,6 +100,27 @@
             "brightWhite": "#e6d4a3",
             "background": "#1e1e1e",
             "foreground": "#e6d4a3"
+          },
+          {
+            "name": "Snazzy",
+            "black": "#000000",
+            "red": "#fc4346",
+            "green": "#50fb7c",
+            "yellow": "#f0fb8c",
+            "blue": "#49baff",
+            "purple": "#fc4cb4",
+            "cyan": "#8be9fe",
+            "white": "#ededec",
+            "brightBlack": "#555555",
+            "brightRed": "#fc4346",
+            "brightGreen": "#50fb7c",
+            "brightYellow": "#f0fb8c",
+            "brightBlue": "#49baff",
+            "brightPurple": "#fc4cb4",
+            "brightCyan": "#8be9fe",
+            "brightWhite": "#ededec",
+            "background": "#1e1f29",
+            "foreground": "#ebece6"
           }
     ],
     
